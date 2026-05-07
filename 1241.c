@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Linguagem   : C
 Nome        : Arthur Hideaki Uehara
 Plataforma  : https://judge.beecrowd.com/pt/search
-Exercício   : 1013
+Exercício   : 1241
 Data        : 07/05/2026
 Objetivo    : determinar se um número encaixa no outro, ou seja, se o segundo valor aparece no final do primeiro
 Aprendizado : utilização de string em línguagem c
